@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlibh>
+#include <math.h>
+
+
+int differentiate();
+ int main(){
+    printf("What do you want to perform?\n 1. Bisection Method\n 2. Newton Raphson");
+    int choice;
+    scanf("%i", int choice);
+    switch (choice){
+        case 1:
+        case 2:
+        printf("Enter your equation");
+        scanf("")
+    }
+
+ }
+
+ int differentiate(char x){
+    switch 
+ }
